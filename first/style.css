@@ -1,0 +1,30 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+.header {
+	background: black;
+	clear: both;
+	height: 28%;
+}
+.right {
+	background: silver;
+	height: 100%;
+	width: 15%;
+	float: right;
+}
+.left {
+	float: left;
+	background: silver;
+	height: 100%;
+	width: 15%;
+}
+.foot {
+	background: black;
+	height: 15%;
+	width: 80%;
+	margin-top: 41%;
+	margin-left: 10%;
+}
