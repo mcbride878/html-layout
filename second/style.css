@@ -1,0 +1,33 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+.left {
+	background-color: blue;
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+.center {
+	background-color: aqua;
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+.right {
+	background-color: green;
+	height: 80%;
+	width: 33%;
+	float: left;
+}
+.bottom {
+	background-color: red;
+	height: 20%;
+	width: 33%;
+	bottom: 0%;
+	/*position: absolute;*/
+	/*right: 0%;*/
+	float: left;
+}
