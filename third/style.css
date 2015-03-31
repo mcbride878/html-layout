@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+.header {
+	background-color: silver;
+	height: 20%;
+	width: 100%;
+}
+.box {
+	background-color: blue;
+	height: 15%;
+	width: 8%;
+	left: 3%;
+	top: 4%;
+	position: absolute;
+
+}
+.first {
+	background-color: white;
+	height: 40%;
+	width: 100%;
+	font-size: 35px;
+
+}
+.second {
+	background-color: blue;
+	height: 20%;
+	width: 100%;
+}
+.third {
+	background-color: aqua;
+	height: 20%;
+	width: 100%;
+}
+.fourth {
+	background-color: green;
+	height: 20%;
+	width: 100%;
+}
+.fith {
+	background-color: yellow;
+	height: 20%;
+	width: 100%;
+}
